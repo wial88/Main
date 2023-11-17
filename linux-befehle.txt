@@ -1,0 +1,23 @@
+sudo shutdown -h now
+sudo reboot -h now
+
+sudo apt-get update
+sudo apt-get upgrade
+
+ip a -> Netzwerkinfos
+
+iwconfig -> WLAN infos
+iwconfig wlan0 power off -> Energiesparmodus WLAN deaktivieren
+
+rm -> datei löschen
+
+sudo rpi-update
+
+schreibrecht auf ordner geben:
+sudo chmod 777 -c -R /ort/ordner
+
+
+prozesse anzeigen und killen:
+ps -ax
+ps -a -> nur User prozesse
+kill {PID} -> killt
