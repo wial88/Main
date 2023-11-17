@@ -21,3 +21,7 @@ prozesse anzeigen und killen:
 ps -ax
 ps -a -> nur User prozesse
 kill {PID} -> killt
+
+
+Cron:
+crontab -e
