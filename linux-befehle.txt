@@ -26,3 +26,6 @@ kill {PID} -> killt
 Cron:
 crontab -e
 python3 /home/pi/Fan-Steuerung.py & -> "&" ist wichtig weil sonst gewartet wird bis prozess fertig ist!
+
+Netzwerkeinstellungen PI:
+sudo nmtui
