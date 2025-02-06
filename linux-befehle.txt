@@ -10,6 +10,7 @@ iwconfig -> WLAN infos
 iwconfig wlan0 power off -> Energiesparmodus WLAN deaktivieren
 
 rm -> datei löschen
+rm -r ORDNER -> ordner löschen
 
 sudo rpi-update
 
