@@ -30,3 +30,6 @@ python3 /home/pi/Fan-Steuerung.py & -> "&" ist wichtig weil sonst gewartet wird 
 
 Netzwerkeinstellungen PI:
 sudo nmtui
+
+systeminfo:
+neofetch
