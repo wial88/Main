@@ -9,6 +9,7 @@ ip a -> Netzwerkinfos
 iwconfig -> WLAN infos
 iwconfig wlan0 power off -> Energiesparmodus WLAN deaktivieren
 
+touch -> datei erstellen
 rm -> datei löschen
 rm -r ORDNER -> ordner löschen
 
