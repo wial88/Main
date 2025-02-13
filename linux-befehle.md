@@ -1,4 +1,4 @@
-`sudo shutdown -h now`
+`sudo shutdown -h now`  
 `sudo reboot -h now`
 
 `sudo apt-get update`
